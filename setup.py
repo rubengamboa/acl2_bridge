@@ -8,7 +8,7 @@ setup(
   author = 'Ruben Gamboa',
   author_email = 'ruben@uwyo.edu',
   url = 'https://github.com/rubengamboa/acl2_bridge',
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
+  download_url = 'https://github.com/rubengamboa/acl2_bridge/archive/v0_1.zip',
   keywords = ['ACL2', 'theorem proving', 'verification'],
   install_requires = [],
   classifiers=[
